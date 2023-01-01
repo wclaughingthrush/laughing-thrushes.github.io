@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Laughing-Thrushes</title>
+		<description>a home away from home</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Who</title>
+				
+					<dc:creator>Blake</dc:creator>
+				
+				
+					<description>&lt;p&gt;Welcome to Laughing-Thrushes Homestay, the perfect retreat for those looking to escape the city and work remotely in the peaceful setting of the Kumaon Mountains.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 01 Jan 2023 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/who</link>
+				<guid isPermaLink="true">http://localhost:4000/who</guid>
+			</item>
+		
+			<item>
+				<title>What and Why</title>
+				
+					<dc:creator>Blake</dc:creator>
+				
+				
+					<description>&lt;p&gt;Welcome to Laughing-Thrushes, a home away from home in the mystical village nestled in the heart of the Kumaon Mountains!&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 01 Jan 2023 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/what-why</link>
+				<guid isPermaLink="true">http://localhost:4000/what-why</guid>
+			</item>
+		
+	</channel>
+</rss>
